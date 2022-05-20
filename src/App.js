@@ -4,6 +4,7 @@ import AddEmployee from './components/AddEmployee';
 import AllEmployees from './components/AllEmployees';
 import Navbar from './components/Navbar';
 import UpdateEmployee from './components/UpdateEmployee';
+import React from 'react';
 
 function App() {
   return (
